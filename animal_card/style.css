@@ -1,0 +1,73 @@
+.fact {
+    font: italic 15pt fantasy;
+    border: 1px solid white;
+}
+
+span {
+    font-size: 14pt;
+    font-weight: bolder;
+}
+
+li {
+    list-style-type: none;
+    border-spacing: 100px;
+}
+
+.outside {
+    list-style-position: outside;
+    border: 1px solid white;
+}
+
+.border {
+    border: 2px solid #d9d9d9;
+    padding: 10pt;
+    width: 292px;
+    align-items: center;
+}
+
+h3 {
+    border: 1px solid white;
+    padding: 0pt;
+    font-size: 18pt;
+    font-weight: bolder;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.containerhead {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.picture {
+    width: 300px;
+    border: 2px solid white;
+    align-items: center;
+}
+
+.allborder {
+    align-items: center;
+    border: 2px solid #d9d9d9;
+    padding: 10pt;
+    width: 323.1px;
+    height: 100%;
+    margin: 20px;
+}
+
+ul {
+    padding: 0;
+}
+
+.smallborder {
+    border: 1px solid white;
+}
